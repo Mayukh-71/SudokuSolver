@@ -46,14 +46,14 @@ Sudoku-Solver/
 ├── FrameRecorder.java
 │
 ├── Output/
-│   └── sample_output.mp4
+│   └── solution.mp4
 │
-├── Screenshots/
+├── StartingEndingState/
 │   ├── initial.png
 │   └── solved.png
 │
 ├── frames/
-│   └── Sample frame sequence
+│   └── #Sampleframesequence.png
 │
 ├── README.md
 ├── LICENSE
@@ -95,7 +95,9 @@ The video contains the complete solving process from the initial puzzle to the f
 Additionally,
 
 ```text
-Screenshots/
+frames/
+    framexxxx.png
+StartingEndingState/
     initial.png
     solved.png
 ```
