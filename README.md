@@ -185,9 +185,15 @@ Output/solution.mp4
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Mayukh Paul**
+MAYUKH PAUL
 
-B.Tech, Chemical Engineering
-Indian Institute of Technology Kharagpur
+Indian Institute of Technology, Kharagpur
+
+---
+
+## License
+
+This repository is intended for academic, educational, and research purposes.
+For reuse or collaboration, please contact the author.
