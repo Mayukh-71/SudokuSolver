@@ -148,7 +148,7 @@ Example:
 
 ### Solving Animation
 
- ![](frames/framexxxx.png)
+ ![](Output/solution.gif)
 
 ### Solved Sudoku
 
@@ -160,9 +160,9 @@ Example:
 
 A sample execution video is available in:
 
-
-![](Output/solution.mp4)
-
+```
+Output/solution.mp4
+```
 
 ---
 
