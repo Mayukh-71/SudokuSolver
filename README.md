@@ -144,15 +144,15 @@ Example:
 
 ### Initial Sudoku
 
-> Add `StartingEndingState/initial.png` here.
+ ![](StartingEndingState/initial.png)
 
 ### Solving Animation
 
-> Add `frames/framexxxx.png` here
+ ![](frames/framexxxx.png)
 
 ### Solved Sudoku
 
-> Add `StartingEndingState/solved.png` here.
+![](StartingEndingState/solved.png)
 
 ---
 
@@ -160,9 +160,9 @@ Example:
 
 A sample execution video is available in:
 
-```text
-Output/solution.mp4
-```
+
+![](Output/solution.mp4)
+
 
 ---
 
